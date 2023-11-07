@@ -2,11 +2,11 @@
 
 ## Descrição
 
-Repositorio para teste de processo TDD.</br>
+Repositorio para teste do processo TDD.</br>
 Qualidade e Testes de Software - Análise e Desenvolvimento de Sistemas - FACENS
 
 <div>
-<img src="https://github.com/JoseMRezende/TDD/assets/112033771/5825bcaa-a73a-43cc-89d7-c268c45e5d79" width="300px" />
+<img src="https://github.com/JoseMRezende/TDD/assets/112033771/5825bcaa-a73a-43cc-89d7-c268c45e5d79" width="400px" />
 </div>
 
 ## TDD
@@ -48,10 +48,10 @@ promove o desenvolvimento de software de alta qualidade, pois:</br>
 
 ### 1.
 <div>
-<img src="" width="500px" />
+<img src="https://github.com/JoseMRezende/TDD/assets/112033771/f4298f7f-d0d1-4181-8f1b-0f133cec1476" width="500px" />
 </div>
 
 ### 2.
 <div>
-<img src="" width="500px" />
+<img src="https://github.com/JoseMRezende/TDD/assets/112033771/ff034c9c-d517-481f-95d1-90bd4a26efb3" width="500px" />
 </div>
