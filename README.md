@@ -29,7 +29,7 @@ Refatorar o código: Depois que o teste passa com sucesso, o desenvolvedor pode 
 o código, se necessário, para torná-lo mais limpo e eficiente. A garantia é que, mesmo após a
 refatoração, os testes continuarão a passar.</br>
 
-#Aplicação
+## Aplicação
 
 Esse ciclo é repetido várias vezes ao longo do desenvolvimento do software, com cada teste
 e implementação se acumulando para criar uma base sólida de testes automatizados. TDD
