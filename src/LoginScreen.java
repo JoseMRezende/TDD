@@ -2,6 +2,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * @author José Marcos
+ * @version 3.0
+ * @since Release 1.0 da aplicação
+ *
  * Uma classe simples que representa uma tela de login com autenticação de usuário.
  */
 public class LoginScreen {
